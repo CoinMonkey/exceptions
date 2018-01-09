@@ -1,0 +1,3 @@
+# Basic exceptions for exchanges
+
+Coming soon...
